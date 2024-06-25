@@ -8,7 +8,6 @@
 
 你应该先让 Loop 中的 Copilot、Microsoft Copilot（必应聊天）和 Word 中的 Copilot 各自创建一个包含 15 个问题的问题集。
 
-> [!TIP]
-> 如果任何一个 Copilot 随每个问题生成了额外的注释，请要求它在响应中仅包括问题。
+> 提示****：如果任何一个 Copilot 随每个问题生成了额外的注释，请要求它在响应中仅包括问题。
 
 然后，你应该将每个 Copilot 工具生成的 15 个问题复制并粘贴到单个 Word 文档中，总共有 45 个问题。 从该文档中，你将让 Word 中的 Copilot 比较这 45 个问题，并从该池中选择 15 个最好的问题。 对于 Copilot 建议的每个问题，让它确定问题的来源，即来自 Word 中的 Copilot、Loop 中的 Copiliot，还是来自 Microsoft Copilot（必应）。 然后从包含 15 个问题的最终列表中，要求 Word 中的 Copilot 显示分别由 Loop 中的 Copilot、Microsoft Copilot（必应）和 Word 的 Copilot 生成的问题总数。
