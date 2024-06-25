@@ -9,8 +9,7 @@
 
 在此培训中，使用 Outlook 中的 Copilot 总结收件箱中的实际电子邮件线程，然后起草对此线程中最新电子邮件的潜在回复。
 
-> [!IMPORTANT]
-> Outlook 中的 Copilot 场景仅适用于用户的主要邮箱。 它们在用户的存档邮箱、组邮箱或用户有权访问的共享和委托邮箱中不可用。 Microsoft 仅支持对 Exchange Online 中托管的邮箱使用 Copilot for Outlook。 此外，Outlook 中的 Copilot 仅在 Microsoft 365 工作或学校帐户和具有特定电子邮件域的 Microsoft 帐户中受支持。 Microsoft Entra ID 帐户通过适用于 Microsoft 365 的 Copilot 支持此功能，MSA 帐户通过 Copilot Pro 支持此功能。 任何使用第三方电子邮件提供商帐户的 Microsoft 帐户仍然可以使用Outlook，但无法访问 Outlook 中的 Copilot 功能。
+> **重要提示：** Outlook 中的 Copilot 场景仅适用于用户的主要邮箱。 它们在用户的存档邮箱、组邮箱或用户有权访问的共享和委托邮箱中不可用。 Microsoft 仅支持对 Exchange Online 中托管的邮箱使用 Copilot for Outlook。 此外，Outlook 中的 Copilot 仅在 Microsoft 365 工作或学校帐户和具有特定电子邮件域的 Microsoft 帐户中受支持。 Microsoft Entra ID 帐户通过适用于 Microsoft 365 的 Copilot 支持此功能，MSA 帐户通过 Copilot Pro 支持此功能。 任何使用第三方电子邮件提供商帐户的 Microsoft 帐户仍然可以使用Outlook，但无法访问 Outlook 中的 Copilot 功能。
 
 还记得在以前的用例中，Outlook 中的 Copilot 可以为同一封电子邮件创建多个草稿。 它们可以有不同的语气和长度，以及不同的内容。 然后，通过选择 Copilot 窗口顶部的向前和向后箭头可以浏览各个草稿。
 
