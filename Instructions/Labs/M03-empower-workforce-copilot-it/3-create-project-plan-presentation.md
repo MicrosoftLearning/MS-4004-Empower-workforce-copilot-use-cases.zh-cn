@@ -20,7 +20,7 @@ IT 专业人员可能出于各种原因而需要创建 PowerPoint 演示文稿�
 
 作为 Adatum Corporation 的 IT 主管，你计划将 Contoso CipherGuard Sentinel X7 网络安全产品安装到 Adatum 的公司网络中。 在前面的练习中，你使用了 Microsoft Copilot 来创建安装项目计划。 现在，你希望使用 PowerPoint 中的 Copilot 基于该计划创建幻灯片演示文稿。 你必须向 IT 人员演示该项目计划，并最终向公司管理层演示。 执行以下步骤，创建你计划在演示文稿中使用的幻灯片组。
 
-1.  如果你已完成上一练习并创建了 **Contoso CipherGuard project plan.docx** 文件，请确保将其复制到你的 OneDrive 帐户，然后继续执行下一步。 但是，如果你在上一练习中无法创建此项目计划，请选择以下链接，下载已为你创建的 [Contoso CipherGuard 项目计划](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20project%20plan.docx)。 在文件下载完成后，将其复制到你的 OneDrive 帐户。
+1.  如果你已完成上一练习并创建了 **Contoso CipherGuard project plan.docx** 文件，请确保将其复制到你的 OneDrive 帐户，然后继续执行下一步。 但是，如果你在上一练习中无法创建此项目计划，请选择以下链接，下载已为你创建的 [Contoso CipherGuard 项目计划](https://go.microsoft.com/fwlink/?linkid=2268924)。 在文件下载完成后，将其复制到你的 OneDrive 帐户。
 2.  此时，你应该有一个存储在 OneDrive 帐户中的 **Contoso CipherGuard project plan.docx** 文件。 打开该文件以确认一切正常，然后关闭文件。 这样做还可确保它显示在“最近使用(MRU)”文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个“Microsoft 365”选项卡，则现在选择它；否则，请打开一个新选项卡并输入以下 URL：https://www.office.com****
 4.  在 Microsoft 365 主页上，选择左侧导航窗格中的 PowerPoint 图标********。

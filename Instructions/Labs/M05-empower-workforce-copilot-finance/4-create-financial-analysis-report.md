@@ -14,7 +14,7 @@ Word 中的 Copilot 可以帮助财务专业人员更高效地创建文档。 �
 
 作为 Fabrikam 财务总监，你在之前的练习中使用了 Excel 中的 Copilot 来分析公司第 1 季度市场营销活动的有效性。 在本练习中，你计划使用 Word 中的 Copilot 生成汇总该数据分析的报表。 电子表格已复制并粘贴到 Word 文档中，你将在第一步下载该文档。
 
-1.  选择以下链接以下载 [Fabrikam 第 1 季度市场营销活动数据](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaign%20data.docx)。
+1.  选择以下链接以下载 [Fabrikam 第 1 季度市场营销活动数据](https://go.microsoft.com/fwlink/?linkid=2268926)。
 2.  下载完成后，将文件移动到 OneDrive 帐户，然后打开并关闭该文件，使其出现在“最近使用”(MRU) 文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个 Microsoft 365 标签页，则现在选择它；否则，请打开一个新标签页并输入以下 URL：https://www.office.com********
 4.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个空白文档********。

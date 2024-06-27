@@ -19,7 +19,7 @@
 
 你希望电子邮件的语气正式而专业，其中应包括职位名称、入职日期、薪资和福利（出现在你必须下载的文件中）。 电子邮件中应提及，录用与否取决于是否顺利完成背景调查和其他可能需要的录用前筛选。 作为电子邮件录用函，它还必须附上一份录用函副本，供应聘者签字和交回。
 
-1.  选择以下链接以下载[平面设计院 - 员工福利](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Employee%20benefits.docx)文档。
+1.  选择以下链接以下载[平面设计院 - 员工福利](https://go.microsoft.com/fwlink/?linkid=2268825)文档。
 2.  文件下载完成后，将其移动到 OneDrive 帐户，然后打开并关闭该文件，使其出现在“最近使用(MRU)”文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个 Microsoft 365 标签页，则现在选择它；否则，请打开一个新标签页并输入以下 URL：**https://www.office.com**
 4.  在 Microsoft 365 中，打开 Outlook********。

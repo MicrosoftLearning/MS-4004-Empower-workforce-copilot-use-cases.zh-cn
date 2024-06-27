@@ -10,7 +10,7 @@ Word 中的 Copilot 还可以分析员工反馈和调查，帮助人力资源专
 
 作为 Graphic Design Institute 的人力资源经理，你开始了新的高级动画设计师的招聘流程。 你的员工创建了一个文档，其中概述了此角色的所有工作职责。 现在，你希望使用 Word 中的 Copilot 基于此文档中的角色职责创建职位描述。
 
-1.  选择以下链接来下载“Graphic Design Institute - Team Responsibilities”[](https://edxinteractivepage.blob.core.windows.net/ms-4004/Graphic%20Design%20Institute%20-%20Design%20Team%20Responsibilities.docx)文档。
+1.  选择以下链接来下载“Graphic Design Institute - Team Responsibilities”[](https://go.microsoft.com/fwlink/?linkid=2268824)文档。
 2.  下载完成后，将文件移动到你的 OneDrive 帐户，然后打开并关闭该文件，使其出现在“最近使用”(MRU) 文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个 Microsoft 365 标签页，则现在选择它；否则，请打开一个新标签页并输入以下 URL：**https://www.office.com**
 4.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个空白文档********。

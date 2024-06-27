@@ -13,10 +13,10 @@
 在上一练习结束时，你保存了创建的工作说明文件。 你得到指示将该文件另存为“图形设计院 - 工作说明.docx”****。 如果将其保存为不同的文件名，请记住你使用的名称，使你能够在本练习中找到该文件。 在本练习中，执行以下步骤，让 Word 中的 Copilot 将你收到的四份简历针对此工作说明文件进行比较，帮助确定哪个候选人最符合资格：
 
 1.  选择以下链接，下载目前为止你收到的简历：
-     -  [简历 - Patti Fernandez](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Patti%20Fernandez.docx)
-     -  [简历 - Nestor Wilke](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Nestor%20Wilke.docx)
-     -  [简历 - Holly Dickson](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Holly%20Dickson.docx)
-     -  [简历 - Alex Wilber](https://edxinteractivepage.blob.core.windows.net/ms-4004/Resume%20-%20Alex%20Wilber.docx)
+     -  [简历 - Patti Fernandez](https://go.microsoft.com/fwlink/?linkid=2268829)
+     -  [简历 - Nestor Wilke](https://go.microsoft.com/fwlink/?linkid=2268930)
+     -  [简历 - Holly Dickson](https://go.microsoft.com/fwlink/?linkid=2268828)
+     -  [简历 - Alex Wilber](https://go.microsoft.com/fwlink/?linkid=2269127)
 2.  下载完成后，打开“文件资源管理器”，并将文件从“下载”文件夹中复制到 OneDrive 帐户中的一个文件夹********。
 3.  在本练习中，从“最近使用”(MRU) 文件列表中访问文档。 若要让文件出现在 MRU 列表中，打开每个文档，然后将其关闭。 打开并关闭 OneDrive 帐户中四份简历文件中的每一份简历。
 4.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个新的空白文档********。

@@ -18,9 +18,9 @@ Word 中的 Copilot 可以帮助销售人员与其客户建立牢固的关系，
 执行以下步骤，使用 Word 中的 Copilot 生成发言：
 
 1.  选择以下链接，下载三个供应商协议：
-     -  [Contoso 供应商协议](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Supplier%20Agreement.docx)
-     -  [Tailwind Traders 供应商协议](https://edxinteractivepage.blob.core.windows.net/ms-4004/Tailwind%20Traders%20Supplier%20Agreement.docx)
-     -  [Wide World Importers 供应商协议](https://edxinteractivepage.blob.core.windows.net/ms-4004/Wide%20World%20Importers%20Supplier%20Agreement.docx)
+     -  [Contoso 供应商协议](https://go.microsoft.com/fwlink/?linkid=2268925)
+     -  [Tailwind Traders 供应商协议](https://go.microsoft.com/fwlink/?linkid=2269128)
+     -  [Wide World Importers 供应商协议](https://go.microsoft.com/fwlink/?linkid=2269129)
 2.  下载完成后，打开“文件资源管理器”，并将文件从“下载”文件夹中复制到 OneDrive 帐户中的一个文件夹********。
 3.  在本练习中，从“最近使用”文件列表中访问文档。 为了让文件出现在 MRU 列表中，请打开每个文档，然后将其关闭。 在 OneDrive 帐户下打开三个文件，然后将其关闭。
 4.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个新的空白文档********。
@@ -30,6 +30,6 @@ Word 中的 Copilot 可以帮助销售人员与其客户建立牢固的关系，
 6.  现在必须将这三份供应商协议附加到提示。 在“使用 Copilot 起草”窗口中，选择“引用你的内容”按钮********。 在显示的下拉菜单中，如果“Contoso 供应商协议”显示在文件列表中，请选择它****。 否则，选择“浏览云中的文件”，从“最近”文件列表中选择“Contoso 供应商协议”，然后选择“附加”按钮****************。 请注意文件在提示中的显示方式。
 7.  对“Tailwind Traders 供应商协议”和“Wide World Importers 供应商协议”重复上述步骤********。 此时，所有三个文件的链接都应包含在提示中。
 8.  选择**生成**。 此时，Copilot 从三份供应商协议中提取相关信息，起草一份报告对其进行比较。
-9.  审阅发言后，你对结果不满意。 你希望看到 Copilot 再次尝试并生成新版本。 在文档末尾显示的“Copilot”窗口中，选择位于“保留”按钮旁边的“重新生成”按钮********。 可以根据需要多次重复此步骤，直到 Copilot 创建出你批准的报告版本。 对于本练习，请多次重复此步骤，查看 Copilot 提供的各种格式。 另请注意，某些信息可能会包含在报告的一个版本中，而不会包含在另一个版本中。
-10. 对报告的某个版本感到满意后，选择“保留”按钮****。
+9.  审阅发言后，你对结果不满意。 你希望看到 Copilot 再次尝试并生成新版本。 在文档末尾显示的“Copilot”窗口中，选择位于“保留”按钮旁边“重新生成”按钮********。 可以根据需要多次重复此步骤，直到 Copilot 创建出你批准的报告版本。 对于本练习，请多次重复此步骤，查看 Copilot 提供的各种格式。 另请注意，某些信息可能会包含在报告的一个版本中，而不会包含在另一个版本中。
+10. 对版本的某个版本感到满意后，选择“保留”按钮****。
 11. 完成此文档后，请将其保存到 OneDrive，以便在 Microsoft Edge 浏览器中关闭此选项卡。

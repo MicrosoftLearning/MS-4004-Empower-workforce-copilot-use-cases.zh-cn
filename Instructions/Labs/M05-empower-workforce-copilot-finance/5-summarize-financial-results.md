@@ -14,7 +14,7 @@
 
 为了完成此任务，你将打开会计团队准备的 Word 文档，该文档提供了该公司过去五年的年度业绩的财务汇总。 然后，你将在 Word 中使用 Copilot 来汇总公司在此期间的业绩。
 
-1.  选择以下链接来下载 [Adatum 5 年财务结果](https://edxinteractivepage.blob.core.windows.net/ms-4004/Adatum%205%20Year%20Financial%20Results.docx)。
+1.  选择以下链接来下载 [Adatum 5 年财务结果](https://go.microsoft.com/fwlink/?linkid=2268923)。
 2.  下载完成后，打开“文件资源管理器”，并将文件从 Downloads 文件夹移动到 OneDrive 帐户中的一个文件夹。********
 3.  在 Microsoft Word 中，打开下载并移动到 OneDrive 帐户的 Adatum 5 Year Financial Results.docx 文件。********
 4.  在 Microsoft Word 功能区上，选择“Copilot”。********
