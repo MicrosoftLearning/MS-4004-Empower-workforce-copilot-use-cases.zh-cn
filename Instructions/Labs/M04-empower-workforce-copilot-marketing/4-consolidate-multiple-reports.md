@@ -22,9 +22,9 @@ Word 中的 Copilot 可以通过多种方式帮助营销专业人员，例如：
 
 执行以下步骤，使用 Word 中的 Copilot 创建此市场分析报告：
 
-1.  选择以下链接，下载[神秘香料高级印度奶茶产品说明](https://edxinteractivepage.blob.core.windows.net/ms-4004/Mystic%20Spice%20Premium%20Chai%20Tea%20product%20description.docx)的副本。
-2.  选择以下链接以下载 [Contoso 印度奶茶市场 2023 年趋势](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20Chai%20Tea%20market%20trends%202023.docx)的副本。
-3.  选择以下链接，下载[拉丁美洲印度奶茶促销计划](https://edxinteractivepage.blob.core.windows.net/ms-4004/Promotion%20Plan%20for%20Chai%20Tea%20in%20Latin%20America.docx)的副本。
+1.  选择以下链接，下载[神秘香料高级印度奶茶产品说明](https://go.microsoft.com/fwlink/?linkid=2268929)的副本。
+2.  选择以下链接以下载 [Contoso 印度奶茶市场 2023 年趋势](https://go.microsoft.com/fwlink/?linkid=2269122)的副本。
+3.  选择以下链接，下载[拉丁美洲印度奶茶促销计划](https://go.microsoft.com/fwlink/?linkid=2269126)的副本。
 4.  下载完成后，打开“文件资源管理器”，并将文件从 Downloads 文件夹移动到 OneDrive 帐户中的一个文件夹********。
 5.  在本练习中，你将访问“最近使用(MRU)”文件列表中的文档。 若要使文件显示在 MRU 列表中，请打开并关闭 OneDrive 帐户中这三个文件中的每一个。
 6.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个新的空白文档********。

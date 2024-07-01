@@ -19,7 +19,7 @@
 
 执行以下步骤，使用 Excel 中的 Copilot 分析第 1 季度市场营销活动电子表格中显示的数据：
 
-1.  选择以下链接以下载 [Fabrikam 第 1 季度市场营销活动](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%20Q1%20marketing%20campaigns.xlsx)电子表格。
+1.  选择以下链接以下载 [Fabrikam 第 1 季度市场营销活动](https://go.microsoft.com/fwlink/?linkid=2269124)电子表格。
 2.  下载完成后，将文件移动到 OneDrive 帐户，然后打开并关闭该文件，使其出现在“最近使用”(MRU) 文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个 Microsoft 365 标签页，则现在选择它；否则，请打开一个新标签页并输入以下 URL：**https://www.office.com**
 4.  在 Microsoft 365 主页上，选择左侧导航窗格中的 Excel 图标********。

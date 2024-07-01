@@ -1,5 +1,5 @@
 # 介绍
-作为一名需要应对企业环境瞬息万变这种情况的主管，有效的沟通至关重要。 在本用例模块中，你将探讨高管如何通过无缝提升其提示、查询和清晰表达想法的能力，最大限度地提高适用于 Microsoft 365 的 Copilot 的效用。<br>
+作为一名需要应对企业环境瞬息万变这种情况的主管，有效的沟通至关重要。 在本用例模块中，你将探讨高管如何通过顺利提升其提示、查询和清晰表达想法的能力，最大限度地提高适用于 Microsoft 365 的 Copilot 的效用。<br>
 
 作为行政领导，提高有效使用 Copilot 的能力对于充分发挥其潜力至关重要。 可以在涉及所有 Microsoft 365 应用的各种执行任务中使用此技能。 例如，在 Microsoft Word 中起草报告、在 Excel 中分析数据、在 PowerPoint 中创建演示文稿，等等。<br>
 
@@ -11,9 +11,9 @@
  -  自定义。 可以自定义 Copilot 以满足高管的独特需求。 例如，它可以帮助你进行战略规划、风险管理，甚至危机管理。<br>
  -  **与 Microsoft 365 集成**。 Copilot 与 Microsoft 365 应用（如 Teams、Word、Outlook、PowerPoint 和 Excel）集成。 这意味着高管可以在这些应用中使用 Copilot 获取工作帮助。<br>
 
-适用于 Microsoft 365 的 Copilot 充当 AI 支持的写作助手。 它能够理解上下文、建议措辞，并帮助生成内容，所有这些都可提高工作效率。 本用例模块中的练习旨在帮助高管培养以下技能：<br>
+适用于 Microsoft 365 的 Copilot 可充当 AI 写作助手。 它能够理解上下文、建议措辞，并帮助生成内容，所有这些都可提高工作效率。 本用例模块中的练习旨在帮助高管培养以下技能：<br>
 
  -  使用 Microsoft Copilot 合成涉及特定主题的通讯见解。
- -  使用 Word 中的 Copilot 创建计划向公司股东发表的演讲。<br>
- -  使用 PowerPoint 中的 Copilot 根据创建的演讲创建 PowerPoint 演示文稿。
+ -  使用 Word 中的 Copilot 写出要向公司股东发布的演讲稿。<br>
+ -  使用 PowerPoint 中的 Copilot 根据写好的演讲做出 PowerPoint 演示文稿。
  -  使用 Teams 中的 Copilot 总结你参与的会议并列出要点。

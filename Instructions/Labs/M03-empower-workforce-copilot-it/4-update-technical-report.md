@@ -16,7 +16,7 @@ Fabrikam 有兴趣在其企业网络中实施虚拟专用网络 (VPN)。 为此�
 
 作为 Trey Research 的主要顾问，你负责管理 Fabrikam 项目。 你的工作是向 Fabrikam 演示该文档，并让他们了解实施 VPN 的细节。 但是，在审阅该报告后，你决定对报告进行更多更改。 虽然你的团队的初步版本很好，但你觉得它缺少了几条关键信息，并且你想重新设置其中部分内容的格式，让 Fabrikam 更容易理解这些内容。 你打算使用 Word 中的 Copilot 来帮助完成此工作。 要创建，请执行以下步骤：
 
-1.  选择以下链接来下载 [Trey Research - VPN Technical Overview](https://edxinteractivepage.blob.core.windows.net/ms-4004/Trey%20Research%20-%20VPN%20Technical%20Overview.docx) 报告的副本。
+1.  选择以下链接来下载 [Trey Research - VPN Technical Overview](https://go.microsoft.com/fwlink/?linkid=2269129) 报告的副本。
 2.  下载完成后，将文件从“下载”文件夹移动到你的 OneDrive 帐户中的某个文件夹。****
 3.  在 **Microsoft 365** 中，打开 **Microsoft Word**。
 4.  打开 **Trey Research - VPN Technical Overview.docx** 文件。

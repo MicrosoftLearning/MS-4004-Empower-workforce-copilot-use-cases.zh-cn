@@ -17,7 +17,7 @@ Microsoft Copilot 充当实时协作的集中式中心。 它使 IT 专业人员
 
 执行以下步骤，在必应中使用 Microsoft Copilot 创建项目计划：
 
-1.  选择以下链接，下载 [Contoso CipherGuard 产品规格报告](https://edxinteractivepage.blob.core.windows.net/ms-4004/Contoso%20CipherGuard%20Product%20Specification.docx)的副本。
+1.  选择以下链接，下载 [Contoso CipherGuard 产品规格报告](https://go.microsoft.com/fwlink/?linkid=2269123)的副本。
 2.  下载完成后，打开“文件资源管理器”，并将文件从 Downloads 文件夹移动到 OneDrive 帐户中的一个文件夹。********
 3.  在本练习中，你将从 MRU 文件列表中访问该文档。 为了让文件出现在 MRU 列表中，请打开文档，然后将其关闭。
 4.  在 Microsoft Edge 中，输入以下 URL 导航到 Microsoft 必应：https://bing.com********

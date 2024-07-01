@@ -8,7 +8,7 @@
 
 Relecoloud 的一位初级助理通知你，他们为一个涉及 Munson's Pickles and Preserves Farm 的新项目创建了一个简短的大纲。 Munson's 最初是华盛顿州东部的一家夫妻企业，销售罐装泡菜和腌菜。 在五年的时间里，Munson's 已经发展成为一家价值数百万美元的企业，在加拿大西部和美国太平洋海岸销售他们的商品。他们准备扩大业务，从加拿大中部省份和上中西部地区（美国）开始。
 
-你必须通过选择以下链接来下载营销报告：[Munson's Pickles and Preserves Farm - 营销报告](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Report%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx)。
+你必须通过选择以下链接来下载营销报告：[Munson's Pickles and Preserves Farm - 营销报告](https://go.microsoft.com/fwlink/?linkid=2268063)。
 
 该报告包括执行摘要和引言。 然而，在审阅该报告后，你可以看到你还有很多工作要做，才能把它打造成一个可行的营销计划。 “执行摘要”包含未经任何支持文档证实的详细信息。 你还发现，引言远非正常的“引言”。 它包括了各种本应与引言分开的想法和背景数据。
 
@@ -32,7 +32,7 @@ Relecoloud 的一位初级助理通知你，他们为一个涉及 Munson's Pickl
 
 Relecloud 的营销团队上周举行了会议，就与 Munson's Pickles and Preserves Farm 项目相关的营销活动创意、头脑风暴对话和项目规划进行合作。 他们将所有的调查结果整合成一个庞大的营销活动创意集合。
 
-你必须通过选择以下链接来下载此报告：[针对 Munson's Pickles and Preserves Farm 的营销活动创意](https://edxinteractivepage.blob.core.windows.net/ms-4004/Marketing%20Campaign%20Ideas%20for%20Munson%27s%20Pickles%20and%20Preserves%20Farm.docx)。
+你必须通过选择以下链接来下载此报告：[针对 Munson's Pickles and Preserves Farm 的营销活动创意](https://go.microsoft.com/fwlink/?linkid=2268691)。
 
 现在，你希望简化你的执行团队与 Munson's 的代表之间的沟通和创意共享方式。 为此，请使用 Word 中的 Copilot 分析此营销活动创意报告，并根据它创建一份标题为“用于支持 Munson's 在加拿大和美国进行扩张的五大营销活动创意”的新报告。 这份新报告应该总结此营销活动创意报告的调查结果，突出关键创意和潜在的行动项。 新报告应该包括：
 

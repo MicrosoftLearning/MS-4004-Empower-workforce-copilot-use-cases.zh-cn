@@ -27,7 +27,7 @@
 
 执行以下步骤，在 Word 中使用 Copilot 生成演讲：
 
-1.  选择以下链接，下载 [Fabrikam 2023 损益表](https://edxinteractivepage.blob.core.windows.net/ms-4004/Fabrikam%202023%20Income%20Statement.docx)的副本。
+1.  选择以下链接，下载 [Fabrikam 2023 损益表](https://go.microsoft.com/fwlink/?linkid=2268823)的副本。
 2.  下载完成后，打开“文件资源管理器”，并将文件从 Downloads 文件夹移动到 OneDrive 帐户中的一个文件夹。********
 3.  在本练习中，你将从 MRU 文件列表中访问该文档。 为了让文件出现在列表中，请打开文档，然后将其关闭。
 4.  在 Microsoft 365 中，请输入以下 URL 打开新的空白 Microsoft Word 文档：******** Word.new**** 

@@ -18,7 +18,7 @@
 
 在上一练习中，你使用了 Microsoft Copilot 创建一份报告，确定了锅炉与暖气炉供暖系统之间的差异。 现在，你希望基于此报表创建一个可向 Adatum 的管理团队演示的 PowerPoint 演示文稿。 你的目标是在联系供暖、通风和空调 (HVAC) 公司并正式开始此项目之前，让他们快速了解这两种供暖系统，包括各自的优缺点。
 
-1.  如果已完成上一练习并创建了比较锅炉和暖气炉供暖系统的报表，则验证是否已将其复制到你的 OneDrive 帐户，然后继续执行下一步。 但是，如果无法在上一练习中创建此报表，则选择以下链接以下载为你创建的[“比较锅炉和暖气炉供暖系统”报表](https://edxinteractivepage.blob.core.windows.net/ms-4004/Comparing%20boiler%20and%20furnace%20heating%20systems%20report.docx)。 在文件下载完成后，将其复制到你的 OneDrive 帐户。
+1.  如果已完成上一练习并创建了比较锅炉和暖气炉供暖系统的报表，则验证是否已将其复制到你的 OneDrive 帐户，然后继续执行下一步。 但是，如果无法在上一练习中创建此报表，则选择以下链接以下载为你创建的[“比较锅炉和暖气炉供暖系统”报表](https://go.microsoft.com/fwlink/?linkid=2269121)。 在文件下载完成后，将其复制到你的 OneDrive 帐户。
 2.  打开该报表以确认一切正常，然后关闭文件。 这样做还可确保它显示在“最近使用”(MRU) 文件列表中。
 3.  如果你已在 Microsoft Edge 浏览器中打开了一个“Microsoft 365”选项卡，则现在选择它；否则，请打开一个新选项卡并输入以下 URL：https://www.office.com****
 4.  在 Microsoft 365 主页上，选择左侧导航窗格中的 PowerPoint 图标********。
