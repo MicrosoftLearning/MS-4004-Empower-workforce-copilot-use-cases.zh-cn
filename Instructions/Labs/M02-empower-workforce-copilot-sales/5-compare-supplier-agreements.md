@@ -20,7 +20,7 @@ Word 中的 Copilot 可以帮助销售人员与其客户建立牢固的关系，
 1.  选择以下链接，下载三个供应商协议：
      -  [Contoso 供应商协议](https://go.microsoft.com/fwlink/?linkid=2268925)
      -  [Tailwind Traders 供应商协议](https://go.microsoft.com/fwlink/?linkid=2269128)
-     -  [Wide World Importers 供应商协议](https://go.microsoft.com/fwlink/?linkid=2269129)
+     -  [Wide World Importers 供应商协议](https://go.microsoft.com/fwlink/?linkid=2268931)
 2.  下载完成后，打开“文件资源管理器”，并将文件从“下载”文件夹中复制到 OneDrive 帐户中的一个文件夹********。
 3.  在本练习中，从“最近使用”文件列表中访问文档。 为了让文件出现在 MRU 列表中，请打开每个文档，然后将其关闭。 在 OneDrive 帐户下打开三个文件，然后将其关闭。
 4.  在 Microsoft 365 中，打开 Microsoft Word，然后打开一个新的空白文档********。
