@@ -1,12 +1,12 @@
-# 在 Outlook 中使用 Copilot 向你的保险公司起草电子邮件
+# 使用 Outlook 中的 Microsoft 365 Copilot 给保险公司起草电子邮件
 ---
-Outlook 中的 Copilot 是一个由 AI 提供支持的工具，可帮助财务专业人员在起草自定义电子邮件和电子邮件答复时节省时间和精力。 借助 Copilot，可以快速生成 Copilot 根据特定需求定制的电子邮件草稿，无需花费数小时来编写和编辑它们。 在本培训中，你将使用 Outlook 中的 Copilot 根据一系列用户提供的提示起草一封新电子邮件。
+Outlook 中的 Microsoft 365 Copilot 是一个由 AI 支持的工具，可帮助财务专业人员在起草自定义电子邮件和电子邮件回复时节省时间和精力。 借助 Copilot，可以快速生成 Copilot 根据特定需求定制的电子邮件草稿，无需花费数小时来编写和编辑它们。 在本培训中，你将使用 Outlook 中的 Microsoft 365 Copilot，根据一系列用户提供的提示起草一封新电子邮件。
 
-> **重要提示：** Outlook 中的 Copilot 场景仅适用于用户的主要邮箱。 它们在用户的存档邮箱、组邮箱或用户有权访问的共享和委托邮箱中不可用。 Microsoft 仅支持对 Exchange Online 中托管的邮箱使用 Copilot for Outlook。 此外，Outlook 中的 Copilot 仅在 Microsoft 365 工作或学校帐户和具有特定电子邮件域的 Microsoft 帐户中受支持。 Microsoft Entra ID 帐户通过适用于 Microsoft 365 的 Copilot 支持此功能，MSA 帐户通过 Copilot Pro 支持此功能。 任何使用第三方电子邮件提供商帐户的 Microsoft 帐户仍然可以使用Outlook，但无法访问 Outlook 中的 Copilot 功能。
+> **重要提示：** Outlook 中的 Copilot 场景仅适用于用户的主要邮箱。 它们在用户的存档邮箱、组邮箱或用户有权访问的共享和委托邮箱中不可用。 Microsoft 仅支持对 Exchange Online 中托管的邮箱使用 Copilot for Outlook。 此外，Outlook 中的 Microsoft 365 Copilot 仅在 Microsoft 365 工作或学校帐户和具有特定电子邮件域的 Microsoft 帐户中受支持。 使用 Microsoft Entra ID 账户的 Microsoft 365 Copilot 和使用 MSA 账户的 Copilot Pro 都支持此功能。 任何使用第三方电子邮件提供商帐户的 Microsoft 帐户仍然可以使用Outlook，但无法访问 Outlook 中的 Copilot 功能。
 
 ### 练习
 
-作为 Northwind Traders 的首席财务官，你希望使用 Outlook 中的 Copilot 起草一封发送给公司的健康保险公司 Humongous Insurance 的电子邮件。 最近，你的保险代理人通知你，Northwind 的健康保险保费将全面上涨 - 个人保单的保费将上涨超过 9%，家庭保单的保费将上涨超过 15%。 这一涨幅远远高于行业平均水平。
+作为 Northwind Traders 的首席财务官，你希望使用 Outlook 中的 Microsoft 365 Copilot 起草一封发送给公司的健康保险运营商 (Humongous Insurance) 的电子邮件。 最近，你的保险代理人通知你，Northwind 的健康保险保费将全面上涨 - 个人保单的保费将上涨超过 9%，家庭保单的保费将上涨超过 15%。 这一涨幅远远高于行业平均水平。
 
 这封电子邮件有两个目的：
 
@@ -26,7 +26,7 @@ Outlook 中的 Copilot 是一个由 AI 提供支持的工具，可帮助财务�
     **我是 Northwind Traders 的首席财务官。给我们的保险公司 Humongous Insurance 起草一封电子邮件，表达我对公司来年医疗保险保费涨幅的担忧。请求与保险公司团队会面，以讨论提出的上涨并探讨替代方案。** 
 7.  滚动浏览草稿以进行审阅。 在邮件顶部，Copilot 显示你刚才输入的提示的开头（即“我是 Northwind Traders 的首席财务官...”）****。 选择提示的此部分来查看会发生什么。
 8.  Copilot 会显示“使用 Copilot 重写”**** 窗口，允许你编辑之前的提示并重新生成一封全新的邮件。 此时，你对该邮件感到满意，但你希望了解当使用不同的语气和长度时它会如何变化。 选择提示下方显示的“生成选项”图标。**** 将“语气”更改为“直接”，将“长度”更改为“中等”，然后选择“生成”按钮。********************
-9.  查看修订后的草稿。 在“使用 Copilot 重写”窗口的顶部，注意“我是 Northwind Traders 的首席财务官...”链接********。 还要注意 Copilot 指示此草稿为“2/2”，这意味着你正在查看两个 Copilot 草稿中的第二个。**** 可以选择后退箭头 (&lt;) 返回到上一个 Copilot 草稿，在本例中，第一个草稿的语气为“正式”，长度为“长”。********
+9.  查看修订后的草稿。 在“使用 Copilot 重写”窗口的顶部，注意“我是 Northwind Traders 的首席财务官...”链接********。 还要注意 Microsoft 365 Copilot 指示此草稿为“**2/2**”，这意味着你正在查看两个 Copilot 草稿中的第二个。 可以选择后退箭头 (&lt;) 返回到上一个 Copilot 草稿，在本例中，第一个草稿的语气为“正式”，长度为“长”。********
     
     如果生成多个 Copilot 草稿，正如在本练习中所做的那样，可以使用这些箭头来回在这些草稿之间查找你喜欢的草稿。 如果找到了所需草稿，可以选择其中一个可用按钮来“保留它”或“重新生成”具有相同语气和长度的新草稿。******** 请注意称呼语和结尾敬语、此“直接”草稿的邮件总体语气，以及长度变化。 虽然你想直奔主题，但觉得“直接”语气太不近人情，因此想用不同的语气来生成一份新的草稿****。
 10. 选择窗口顶部带链接的提示（“我是 Northwind Traders 的首席财务官...”）以返回到“使用 Copilot 重写”窗口********。 选择“生成选项”图标，这次将“语气”更改为“随意”，并将“长度”改回“长”。******************** 选择**生成**。
