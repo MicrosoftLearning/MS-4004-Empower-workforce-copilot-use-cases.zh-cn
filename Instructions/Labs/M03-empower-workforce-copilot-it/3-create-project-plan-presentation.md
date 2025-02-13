@@ -1,5 +1,5 @@
 
-# 在 PowerPoint 中使用 Copilot 创建项目计划演示文稿
+# 使用 PowerPoint 中的 Microsoft 365 Copilot 创建项目计划演示文稿
 ---
 熟练使用 Copilot for PowerPoint 是 IT 专业人员的一项战略技能，旨在提升其演示文稿的影响力。 在企业界，通过引人注目的幻灯片进行有效沟通至关重要。 Copilot for PowerPoint 充当智能协作者，在 IT 专业人员制作演示文稿时提供实时建议和增强功能。 此工具不仅加快了创作过程，还确保内容引人入胜、清晰明了，并与预期受众产生共鸣。
 
@@ -10,15 +10,15 @@ IT 专业人员可能出于各种原因而需要创建 PowerPoint 演示文稿�
  -  向非技术受众（例如利益干系人或投资者）解释复杂的技术概念。
  -  向潜在客户展示他们的工作或推广他们的服务。
 
-借助 PowerPoint 中的 Copilot，可以基于现有 Word 文档创建演示文稿。 当你向 PowerPoint 中的 Copilot 提供你的 Word 文档的链接时，它可以生成幻灯片、应用布局并为你选择主题。
+借助 PowerPoint 中的 Microsoft 365 Copilot，可以基于现有 Word 文档创建演示文稿。 向 PowerPoint 中的 Microsoft 365 Copilot 提供 Word 文档的链接时，可以生成幻灯片、应用布局并为你选择主题。
 
 在前面的练习中，你创建了一个项目计划来安装网络安全产品。 然后，你要求 Copilot 分析网络安全产品的产品规格报告，并使用产品规格报告中的信息更新项目计划。
 
-在本练习中，你将使用 PowerPoint 中的 Copilot 基于项目计划创建幻灯片演示文稿。 你希望使用此演示文稿向 IT 人员解释项目计划，并最终向公司管理层进行解释。
+在本练习中，你将使用 PowerPoint 中的 Microsoft 365 Copilot，基于项目计划创建幻灯片演示文稿。 你希望使用此演示文稿向 IT 人员解释项目计划，并最终向公司管理层进行解释。
 
 ### 练习
 
-作为 Adatum Corporation 的 IT 主管，你计划将 Contoso CipherGuard Sentinel X7 网络安全产品安装到 Adatum 的公司网络中。 在前面的练习中，你使用了 Microsoft Copilot 来创建安装项目计划。 现在，你希望使用 PowerPoint 中的 Copilot 基于该计划创建幻灯片演示文稿。 你必须向 IT 人员演示该项目计划，并最终向公司管理层演示。 执行以下步骤，创建你计划在演示文稿中使用的幻灯片组。
+作为 Adatum Corporation 的 IT 主管，你计划将 Contoso CipherGuard Sentinel X7 网络安全产品安装到 Adatum 的公司网络中。 在前面的练习中，你使用了 Business Chat 来创建安装项目计划。 现在，你希望使用 PowerPoint 中的 Microsoft 365 Copilot 基于该计划创建幻灯片演示文稿。 你必须向 IT 人员演示该项目计划，并最终向公司管理层演示。 执行以下步骤，创建你计划在演示文稿中使用的幻灯片组。
 
 1.  如果你已完成上一练习并创建了 **Contoso CipherGuard project plan.docx** 文件，请确保将其复制到你的 OneDrive 帐户，然后继续执行下一步。 但是，如果你在上一练习中无法创建此项目计划，请选择以下链接，下载已为你创建的 [Contoso CipherGuard 项目计划](https://go.microsoft.com/fwlink/?linkid=2268924)。 在文件下载完成后，将其复制到你的 OneDrive 帐户。
 2.  此时，你应该有一个存储在 OneDrive 帐户中的 **Contoso CipherGuard project plan.docx** 文件。 打开该文件以确认一切正常，然后关闭文件。 这样做还可确保它显示在“最近使用(MRU)”文件列表中。
@@ -27,7 +27,7 @@ IT 专业人员可能出于各种原因而需要创建 PowerPoint 演示文稿�
 5.  在 **PowerPoint**中，打开一个新的空白演示文稿。
 6.  选择功能区右侧的“Copilot”选项。****
 7.  在显示的“Copilot”窗格中，有多个预定义的提示可供选择。**** 选择“基于文件创建演示文稿”提示。****
-8.  在 **Copilot** 窗格底部的提示字段中，Copilot 会自动输入文本：**基于文件创建演示文稿 /**。正斜杠是指示要输入文件链接的通用 Copilot 指示符。 在这种情况下，它会触发 Copilot 打开“建议”窗口，其中显示三个最近使用的文件。****
+8.  在 **Copilot** 窗格底部的提示字段中，Copilot 会自动输入文本：**创建演示文稿，基于文件 /**。正斜杠是要输入文件链接的通用 Microsoft 365 Copilot 标记。 在这种情况下，它会触发 Copilot 打开“建议”窗口，其中显示三个最近使用的文件。****
      -  如果你的文件出现在此处，现在请选择它，然后继续执行下一步。
      -  如果该文件不是所显示的三者之一，请选择“建议”窗口右上角的向右箭头 (&gt;) 以查看展开的 MRU 文件列表。******** 如果该文件出现在此处，现在请选择它，然后继续执行下一步。
      -  如果你在展开的 MRU 列表中未看到文件，则必须复制报表链接并将其粘贴到提示字段中。 为此，请执行以下操作：

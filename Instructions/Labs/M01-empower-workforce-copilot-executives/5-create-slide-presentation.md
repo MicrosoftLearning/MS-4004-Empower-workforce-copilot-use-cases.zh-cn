@@ -1,19 +1,19 @@
 
-# 在 PowerPoint 中使用 Copilot 创建幻灯片演示文稿
+# 使用 PowerPoint 中的 Microsoft 365 Copilot 创建幻灯片演示文稿
 ---
 熟练使用 Copilot for PowerPoint 是高管的一项战略技能，旨在提升其演示文稿的影响力。 作为主管，通过引人注目的幻灯片进行有效沟通至关重要。 Copilot for PowerPoint 充当智能协作器，在你制作演示文稿时提供实时建议和改进。 此工具不仅加快了创作过程，还确保内容引人入胜、清晰明了，并与预期受众产生共鸣。
 
 精通 Copilot for PowerPoint，可以毫不费力地优化你的消息传递，增强视觉吸引力并保持专业标准，从而获得竞争优势。 这项技能不仅节省了时间，而且还使你能够发表令人印象深刻的演讲，促进有效的沟通，并在商业互动的动态环境中增强领导影响力。
 
-借助 PowerPoint 中的 Copilot，可以基于现有 Word 文档创建演示文稿。 当你向 PowerPoint 中的 Copilot 提供你的 Word 文档的链接时，它可以生成幻灯片、应用布局并为你选择主题。
+借助 PowerPoint 中的 Microsoft 365 Copilot，可以基于现有 Word 文档创建演示文稿。 向 PowerPoint 中的 Microsoft 365 Copilot 提供 Word 文档的链接时，可以生成幻灯片、应用布局并为你选择主题。
 
 ### 练习
 
 作为组织的 CTO，你将于下周与组织中的其他领导人会面，就有关组织内数字转型工作状态发表演讲。 助手为你提供了到目前为止项目的进度和影响摘要。
 
-在前面的练习中，你在 Word 中使用了 Copilot 来根据进度表的信息撰写演讲稿。 在本练习中，你计划使用 PowerPoint 中的 Copilot 根据你的演讲创建幻灯片演示文稿。 为此，必须首先将链接复制到你在上一个练习中创建的 Digital Transformation Speech.docx **** 文件。
+在前面的练习中，你使用了 Word 中的 Microsoft 365 Copilot 来根据进度报告的信息撰写发言稿。 在本练习中，你计划使用 PowerPoint 中的 Microsoft 365 Copilot，根据演讲稿创建幻灯片演示文稿。 为此，必须首先将链接复制到你在上一个练习中创建的 Digital Transformation Speech.docx **** 文件。
 
-在前面的练习中，你通过访问最近使用 (MRU) 的文件列表中的文件，在 Copilot 中访问了摘要。 在本练习中，你将获得使用其他过程访问文件的经验。 你计划通过 Word 中的“共享”选项将演讲文件路径复制到 Copilot 来访问该演讲，而不是使用 MRU 列表。**** 执行以下步骤，让 PowerPoint 中的 Copilot 创建演示文稿草稿：
+在前面的练习中，你通过访问最近使用 (MRU) 的文件列表中的文件，在 Copilot 中访问了摘要。 在本练习中，你将获得使用其他过程访问文件的经验。 你计划通过 Word 中的“共享”选项将演讲文件路径复制到 Copilot 来访问该演讲，而不是使用 MRU 列表。**** 执行以下步骤，让 PowerPoint 中的 Microsoft 365 Copilot 创建演示文稿草稿：
 
 1.  如果你已在 Edge 浏览器中打开了一个 Microsoft 365 选项卡，请现在选择它；否则，请打开新的选项卡并输入以下 URL：**https://www.office.com**。
 
@@ -44,7 +44,7 @@
     
     在提示字段中，Copilot 在“基于文件创建演示文稿 /”中自动键入内容。**** 将游标放在正斜杠后面，然后输入 Ctrl+V，将指向此文档的链接粘贴到提示中。****
     
-    ![显示“PowerPoint 中的 Copilot”提示字段的屏幕截图，其中显示了“基于文件创建演示文稿”和文件链接。](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
+    ![显示“PowerPoint 中的 Microsoft 365 Copilot”提示字段的屏幕截图，其中显示了“基于文件创建演示文稿”提示和文件链接。](../media/copilot-ppt-prompt-with-file-link-690f74ed.png)
     
 12. 选择“发送”图标。****
 
@@ -64,6 +64,6 @@
     
     **在第 1 张幻灯片后面添加一张新的幻灯片。这张幻灯片应该有一张阿尔卑斯山山峰的图像。在幻灯片底部，添加一个如下所示的文本框：Fabrikam 公司座右铭 -“我我们克服每一个障碍。”向这张新幻灯片添加演讲者备注，讲述 Fabrikam 如何努力解决每个客户的要求，绝不让任何障碍阻碍其成功**。
 
-18. 审查已创建的新幻灯片。 Copilot 在创建此幻灯片方面有多成功？
+18. 审查已创建的新幻灯片。 Microsoft 365 Copilot 在创建此幻灯片方面有多成功？
 
 19. 本模块中剩余的培训练习不使用此演示文稿，所以你可以将其丢弃，也可以将其保存供将来参考。

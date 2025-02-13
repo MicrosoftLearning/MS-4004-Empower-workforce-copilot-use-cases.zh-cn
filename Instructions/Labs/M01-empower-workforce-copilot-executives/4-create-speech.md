@@ -1,5 +1,5 @@
 
-# 在 Word 中使用 Copilot 创作演讲稿
+# 使用 Word 中的 Microsoft 365 Copilot 创作演讲稿
 ---
 掌握 Copilot for Word 可能是高管和主管的变革性技能，使他们能够制作有影响力的通信，如演讲、备忘录和组织范围的电子邮件。 有效的沟通对于高管和主管要向其他领导、员工和其他利益干系人明确传达信息至关重要。
 
@@ -9,7 +9,7 @@
 
 ### 在 Copilot 中链接文件
 
-在此练习中，你将指导 Word 中的 Copilot 根据存储在 Word 文档中的信息撰写一份演讲稿。 你可能还记得在更早的培训中，当你将这样的文件链接到 Copilot 提示时，该文件必须位于 OneDrive 帐户中。 无法链接到电脑上本地存储的文件。
+在此练习中，你将指导 Word 中的 Microsoft 365 Copilot 根据存储在 Word 文档中的信息撰写一份演讲稿。 你可能还记得在更早的培训中，当你将这样的文件链接到 Copilot 提示时，该文件必须位于 OneDrive 帐户中。 无法链接到电脑上本地存储的文件。
 
 可使用以下方法之一将文件链接到 Copilot 提示：
 
@@ -23,11 +23,11 @@
 
 假设你是大型组织中的 CTO，并且在接下来的几天里，你将与组织其他部分的其他高管举行会议。 在此会议期间，你将展示组织的数字转型状态。 助手为你提供了有关这项工作的更新摘要。  
 
-你计划使用 Copilot 根据摘要文档中的信息撰写演讲稿。 本练习将指导你完成一系列提示，你可以根据这些提示让 Word 中的 Copilot 生成演讲，然后根据你建议的更改对其进行更新。
+你计划使用 Copilot 根据摘要文档中的信息撰写演讲稿。 本练习将指导你完成一系列提示，你可以根据这些提示让 Word 中的 Microsoft 365 Copilot 生成演讲稿，然后根据你建议的更改对其进行更新。
 
 为了在 Copilot 中引用文件，本练习从 MRU 文件列表中查找文件。
 
-执行以下步骤，在 Word 中使用 Copilot 生成演讲：
+执行以下步骤，使用 Word 中的 Microsoft 365 Copilot 生成演讲：
 
 1. 选择以下链接以下载 Digital Transformation Summary.docx[](https://go.microsoft.com/fwlink/?linkid=2277632) 的副本。
 
@@ -60,11 +60,11 @@
 
     > **注意：** Copilot 将复制内容，其中包含所要求的修改。 如果要保留新版本，请删除旧文本。
 
-13. 出于好奇，你想让Copilot 重新生成演讲稿。 突出显示文档正文中的所有文本，选择左侧的 Copilot 图标，然后选择“自动重写”****。
+13. 出于好奇，你想让Copilot 重新生成演讲稿。 突出显示文档正文中的所有文本，选择左侧的 Copilot 图标，然后选择“**自动重写**”。
 
 14. Copilot 将为你重写所选文本。 查看文本后，你决定让演讲稿听起来更专业。 在“使用 Copilot 重写”**** 窗口中，选择“调整语气”**** 选项。
 
-    ![显示 Word 中 Copilot 中调整语气选项的屏幕截图。](../media/copilot-word-adjust-tone.png)
+    ![显示在 Word 中的 Microsoft 365 Copilot 中调整语气选项的屏幕截图。](../media/copilot-word-adjust-tone.png)
 
 15. 从选项中选择“专业”****，然后选择“重新生成”****。
 
@@ -72,6 +72,6 @@
 
 17. 使用以下文件名将文件保存到 OneDrive 帐户：Digital Transformation Speech.docx****。 下一个练习会用到此文档。
     
-    > **重要提示：** 确保将文件保存到 OneDrive 而不是本地电脑。 在下一个练习中，你将使用 PowerPoint 中的 Copilot 来根据此文档创建幻灯片演示文稿。 此文档必须位于 OneDrive for Copilot 中才可供访问。
+    > **重要提示：** 确保将文件保存到 OneDrive 而不是本地电脑。 在下一个练习中，你将使用 PowerPoint 中的 Microsoft 365 Copilot，根据此文档创建幻灯片演示文稿。 此文档必须位于 OneDrive for Copilot 中才可供访问。
 
 18. 关闭 Microsoft Edge 浏览器中包含此文档的选项卡。

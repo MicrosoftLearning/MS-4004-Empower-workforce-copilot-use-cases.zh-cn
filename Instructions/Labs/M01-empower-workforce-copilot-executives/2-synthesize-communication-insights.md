@@ -1,20 +1,20 @@
 
-# 使用 Microsoft Copilot 合成通讯见解
+# 使用 Microsoft 365 Business Chat 合成通信见解
 ---
-在当今瞬息万变的商业环境中，有效的沟通是保持领先的关键。 高管和领导们需要处理海量的信息，而 Microsoft Teams 为此应运而生，成为他们用于简化沟通体验的强大工具。 在 Teams 中，Microsoft Copilot 可快速高效地概述关键讨论内容来助你一臂之力，确保你信息通畅，而不会不知所措。
+在当今瞬息万变的商业环境中，有效的沟通是保持领先的关键。 高管和领导们需要处理海量的信息，而 Microsoft Teams 为此应运而生，成为他们用于简化沟通体验的强大工具。 在 Teams 中，Business Chat 可快速高效地概述关键讨论内容来助你一臂之力，确保信息通畅，而不会不知所措。
 
-当你想到 Microsoft Teams 时，你通常会想到 Teams 的聊天。 但是，当你使用适用于 Microsoft 365 的 Copilot 时，Teams 中的 Copilot 体验不仅可以专注于聊天体验，而且还专注于 Outlook 中的电子邮件和会议数据。 它通过 Teams 中提供的两项 Copilot 功能实现此目的：
+当你想到 Microsoft Teams 时，你通常会想到 Teams 的聊天。 但是，使用 Microsoft 365 Copilot 时，Teams 中的 Copilot 体验不仅可以专注于聊天体验，而且还专注于 Outlook 中的电子邮件和会议数据。 它通过 Teams 中提供的两项 Copilot 功能实现此目的：
 
- -  **Teams 中的 Copilot**。 此 Copilot 功能可访问已打开的特定聊天会话。 但是，它不会访问 Teams 外部的组织数据。 打开聊天会话时，选择聊天页面右上角的“Copilot”图标，以打开该会话的“Copilot”窗格********。 Teams 中的 Copilot 可帮助你快速熟悉和综合所有 Teams 聊天会话中的关键信息。 在 Teams 中打开聊天会话时，Copilot 将从长达 30 天的聊天会话中检索信息。
- -  **Teams 中的 Copilot 应用**。 此 Copilot 功能可访问所有 Teams 的聊天体验以及 Outlook 中的电子邮件和会议。 它使用可以进行基于 Graph 的聊天的 Microsoft Copilot 来访问 Teams 和 Outlook 数据****。 若要使用此功能，请选择“聊天”窗格顶部显示的“Copilot”选项****。 这样做会在 Teams 中打开“Copilot”页面****。
+ -  **Teams 中的 Microsoft 365 Copilot**。 此 Copilot 功能可访问已打开的特定聊天会话。 但是，它不会访问 Teams 外部的组织数据。 打开聊天会话时，选择聊天页面右上角的“Copilot”图标，以打开该会话的“Copilot”窗格********。 Teams 中的 Microsoft 365 Copilot 可帮助你快速熟悉和综合所有 Teams 聊天会话中的关键信息。 在 Teams 中打开聊天会话时，Copilot 将从长达 30 天的聊天会话中检索信息。
+ -  **Teams 中的 Business Chat**。 此 Copilot 功能可访问所有 Teams 的聊天体验以及 Outlook 中的电子邮件和会议。 它使用基于 Graph 的聊天来访问 Teams 和 Outlook 数据。 若要使用此功能，请选择“聊天”窗格顶部显示的“Copilot”选项。 这样做会在 Teams 中打开“Copilot”页面。
 
-本练习的重点在于 Teams 中的 Copilot 应用，具体而言是指，可以访问 Teams 和 Outlook 数据的可进行基于 Graph 的聊天的 Microsoft Copilot 功能。 该功能旨在通过与你一起工作简化 Microsoft Teams 中工作的各个方面，并根据工作上下文提供建议和推荐。 例如，它可以帮助你：
+本练习的重点在于 Teams 中的 Business Chat，特别指的是可以访问 Teams 和 Outlook 数据的基于 Graph 的聊天功能。 该功能旨在通过与用户一起工作简化 Microsoft Teams 中工作的各个方面，并根据工作上下文提供建议和推荐。 例如，它可以帮助你：
 
  -  快速回顾过去的通信（例如，“Emily 有什么新消息？”）。
  -  将聊天窗口中的长会话汇总为要点。
  -  回答查询以帮助获取最新信息（例如，“我明天与谁会面？”）。
 
-在本培训练习中，你计划使用 Teams 中的 Copilot 应用汇总有关工作环境中的实际主题的电子邮件、会议和聊天。 当聊天基于 Graph 的 Microsoft Copilot 以这种方式综合数据时，它会访问你的 Microsoft 365 租户来收集此信息。<br>
+在本培训练习中，你计划使用 Teams 中的 Business Chat 汇总有关工作环境中的实际主题的电子邮件、会议和聊天。 当使用基于 Graph 聊天的 Business Chat 以这种方式综合数据时，它会访问 Microsoft 365 租户来收集此信息。<br>
 
 ### 练习
 
@@ -28,7 +28,7 @@
 2.  在“Copilot”窗口中，在页面底部的提示中输入以下文本（将“所选主题”替换为你在组织中参与的实际项目名称或主题）****：
     
     **汇总过去 30 天内与\{所选主题\}相关的所有电子邮件、会议和聊天**。
-3.  请注意与电子邮件、会议和聊天的汇总列表相关的提示字段上方显示的选项。 选择其中一个选项以查看 Microsoft Copilot 如何答复。
+3.  请注意与电子邮件、会议和聊天的汇总列表相关的提示字段上方显示的选项。 选择其中一个选项以查看 Business Chat 的响应方式。
 4.  如果在提示上方出现与之前选择的选项相关的更多选项，请立即选择其中一个选项。
 
 请注意每个答复如何生成一组新的后续选项。 通过此设计，可以更深入地了解 Copilot 先前汇总的项目的详细信息。
